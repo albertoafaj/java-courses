@@ -1,4 +1,4 @@
-# Constructors
+# Enumerator
 
 In Java, an enum (short for "enumerator") is a special type of class that represents a fixed set of constants. Enumerations are often used to represent things like days of the week, months of the year, or colors.
 
