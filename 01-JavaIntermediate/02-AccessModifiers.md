@@ -55,3 +55,5 @@ The defaultVar field and defaultMethod() method have default access, which means
 The privateVar field and privateMethod() method are only accessible within the same class.
 
 Note that the default access modifier is not explicitly specified in the example above. If no access modifier is specified for a class, method, or variable, it has default access.
+
+![image](./image.PNG)
