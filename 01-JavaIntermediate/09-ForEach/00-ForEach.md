@@ -14,6 +14,7 @@ Arrays.stream(numbers)
       .forEach(n -> System.out.println(n));
 
       ```
+
       
 In this example, we first create an array of integers numbers. We then use the Arrays.stream() method to convert the array into a stream. We can then use the forEach() method on the stream to print out each element of the array.
 
